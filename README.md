@@ -12,9 +12,9 @@ Useful for long lists of locations etc.
 - Create the new ACF field, selecting the new GoogleMaps Autocomplete field type, under jQuery
 - Enter, and pull the data out to the Front-End
 
-This plugin will add 3 fields to be saved within your ACF data - full address, lat, lng
+This plugin will add 3 fields to be saved within your ACF data - address, lat, lng
 
-It is up to you to decide how to display them on the front end; though I have included a simple example.
+It is up to you to decide how to display them on the Front-End and send the information to the map; I recommend using data attributes.
 
 ### Include this in your functions.php file
 
