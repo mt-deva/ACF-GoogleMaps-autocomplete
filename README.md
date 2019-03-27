@@ -6,13 +6,11 @@ Useful for long lists of locations etc.
 
 ## Installation
 
-* Copy the acf-field-type-autocomplete folder into your wp-content/plugins folder
-* Make sure you have included the standard ACF call to your Google Map API key in your functions.php file
-* Activate ACF and this plugin
-* Create the new ACF field, selecting the new GoogleMaps Autocomplete field type, under jQuery
-* Enter, and pull the data out to the Front-End
-
-
+- Copy the folder into your wp-content/plugins folder
+- Make sure you have included the standard ACF call to your Google Map API key in your functions.php file
+- Activate ACF and this plugin
+- Create the new ACF field, selecting the new GoogleMaps Autocomplete field type, under jQuery
+- Enter, and pull the data out to the Front-End
 
 This plugin will add 3 fields to be saved within your ACF data - full address, lat, lng
 
